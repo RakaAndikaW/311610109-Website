@@ -1,0 +1,66 @@
+html {
+	font-family: PT Sans Narrow;
+}
+
+header {
+	background-image: url(img/bg.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+}
+
+h1 {
+	margin-left: 500px;
+	color: #0f0;
+	font-size: 35px;
+}
+
+p {
+	font-size: 20px;
+}
+
+.buton {
+	margin-left: 35%;
+}
+
+.btn {
+	display: inline-block;
+	text-decoration: none;
+	padding: 5px 10px;
+	border-radius: 20%;
+	float: left;
+}
+
+.btnklik {
+	font-size: 30px;
+	color: #f00;
+	border: 2px solid red;
+	margin-right: 20px;
+}
+
+.btnklik:hover,
+.btnklik:active {
+	background-color: #000;
+	color: #fff;
+}
+
+h2{
+	padding-top: 40px;
+	margin-left: 550px;
+}
+
+.kontak img {
+	margin-right: 80%;
+	margin-top: 10%;
+	width: 90px;
+	height: auto;
+}
+
+h3{
+	font-size: 30px;
+}
+
+.galery {
+
+	margin-top: 200px;
+}
